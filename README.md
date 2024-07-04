@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @j4yd3n-jpg
 - 👀 interested in art, creative writing, fiction, movies, and TV shows
-- 🌱 ’m currently learning computer science
+- 🌱 currently learning computer science
 - 😄 Pronouns: he/him
 
 <!---
