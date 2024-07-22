@@ -1,6 +1,7 @@
 - 👀 interested in art, creative writing, fiction, movies, and TV shows
-- 🌱 currently learning computer science
-- 😄 Pronouns: he/him
+- 🌱 computer science student, entering sophomore year at university
+- 😄 he/him
+- 🇬🇭 🇺🇸
 
 <!---
 j4yd3n-jpg/j4yd3n-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
