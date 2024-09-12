@@ -1,4 +1,4 @@
-- 🌱 computer science student, entering sophomore year at university
+- 🌱 computer science student, sophomore year
 - 👀 interested in art, creative writing, fiction, movies, and TV shows
 - 😄 he/him
 
