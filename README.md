@@ -1,5 +1,5 @@
 - 😄 he/him
-- 🌱 sophomore computer science major (minor in creative writing)
+- 🌱 CS major (third year), creative writing minor
 - 👀 interests: art, fiction, movies, TV
 
 <!---
