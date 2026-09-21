@@ -1,5 +1,5 @@
 - 😄 he/him
-- 🌱 CS major (third year), creative writing minor
+- 🌱 CS major (fourth year), creative writing + math minor
 - 👀 interests: art, fiction, movies, TV
 
 <!---
